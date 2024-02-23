@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eryl-va
-- 👀 I’m interested in web design and apps development
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in web design, apps development, and data analytics
+- 🌱 I’m currently learning coding and data analysis
 - 💞️ I’m looking to collaborate on programming
 - 📫 Message me here 
 
